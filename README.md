@@ -204,4 +204,4 @@ This repository serves as the official landing page for Spanky!. The software is
 **Get the most recent version of Spanky! today!**
 
 ---
-**Last updated:** 2026-11-07 11:27:00 UTC
+**Last updated:** 2026-11-07 17:17:05 UTC
